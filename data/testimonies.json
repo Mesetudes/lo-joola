@@ -1,0 +1,32 @@
+[
+  {
+    "id": "testimony-sample-1",
+    "titre": "شهادة توضيحية 1",
+    "locuteur": null,
+    "photo": null,
+    "alt": "",
+    "audio": null,
+    "transcription": "ستُضاف هنا النسخة النصية الكاملة للتسجيل، وهي إلزامية لكل تسجيل صوتي.",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية، ولا تمثل شهادة حقيقية."
+  },
+  {
+    "id": "testimony-sample-2",
+    "titre": "شهادة توضيحية 2",
+    "locuteur": null,
+    "photo": null,
+    "alt": "",
+    "audio": null,
+    "transcription": "ستُضاف هنا النسخة النصية الكاملة للتسجيل، وهي إلزامية لكل تسجيل صوتي.",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية، ولا تمثل شهادة حقيقية."
+  }
+]

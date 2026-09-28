@@ -1,27 +1,14 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 import Modal from "@/components/ui/Modal";
 import Field from "@/components/ui/Field";
+import Portrait from "@/components/ui/Portrait";
 import SourceBadge from "@/components/narrative/SourceBadge";
 import type { Person } from "@/types/person";
 import peopleData from "@/data/people.json";
 
 const people = peopleData as Person[];
-
-function Portrait({ person, className }: { person: Person; className: string }) {
-  if (person.photo) {
-    return (
-      <div className={`relative overflow-hidden ${className}`}>
-        <Image src={person.photo} alt={person.alt} fill className="object-cover" />
-      </div>
-    );
-  }
-  return (
-    <div aria-hidden="true" className={`flex items-center justify-center bg-sea-blue/10 text-4xl text-sea-blue/60 ${className}`}>؟</div>
-  );
-}
 
 export default function PeopleGallery() {
   const [selectedId, setSelectedId] = useState<string | null>(null);
@@ -34,7 +21,7 @@ export default function PeopleGallery() {
       <div className="grid w-full max-w-3xl grid-cols-2 gap-4 sm:grid-cols-3">
         {people.map((person) => (
           <button key={person.id} type="button" onClick={() => setSelectedId(person.id)} className="flex flex-col gap-2 rounded-xl border border-charcoal/20 bg-off-white p-3 text-start transition hover:border-sea-blue">
-            <Portrait person={person} className="aspect-square w-full rounded-lg" />
+            <Portrait photo={person.photo} alt={person.alt} className="aspect-square w-full rounded-lg" />
             <span className="text-sm font-bold text-deep-navy">{person.nom}</span>
           </button>
         ))}
@@ -44,7 +31,7 @@ export default function PeopleGallery() {
         {selected ? (
           <>
             <div className="flex items-center gap-4">
-              <Portrait person={selected} className="h-24 w-24 shrink-0 rounded-xl" />
+              <Portrait photo={selected.photo} alt={selected.alt} className="h-24 w-24 shrink-0 rounded-xl" />
               <h3 className="text-xl font-bold text-deep-navy">{selected.nom}</h3>
             </div>
             <Field label="العمر" value={selected.age} />
