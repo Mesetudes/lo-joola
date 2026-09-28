@@ -1,7 +1,13 @@
-export default function ComingSoonPage() {
+import CaseFileCover from "@/components/sections/CaseFileCover";
+import CaseFileTimeline from "@/components/sections/CaseFileTimeline";
+
+export default function AynaAladalaPage() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-deep-navy px-6 text-center text-off-white">
-      <p className="text-lg">هذا القسم قيد الإنشاء 🚧</p>
+    <main className="flex flex-col">
+      <CaseFileCover />
+      <div id="timeline">
+        <CaseFileTimeline />
+      </div>
     </main>
   );
 }

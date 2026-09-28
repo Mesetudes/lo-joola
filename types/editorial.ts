@@ -11,4 +11,6 @@ export type EditorialEntity = {
   statut_verification: VerificationStatus;
   date_verification: string | null;
   notes: string | null;
+  institution?: string | null;
+  document?: string | null;
 };
