@@ -1,7 +1,13 @@
-export default function ComingSoonPage() {
+import MemoryCover from "@/components/sections/MemoryCover";
+import MemoryTimeline from "@/components/sections/MemoryTimeline";
+
+export default function AldhakiraPage() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-deep-navy px-6 text-center text-off-white">
-      <p className="text-lg">هذا القسم قيد الإنشاء 🚧</p>
+    <main className="flex flex-col">
+      <MemoryCover />
+      <div id="timeline">
+        <MemoryTimeline />
+      </div>
     </main>
   );
 }

@@ -13,4 +13,5 @@ export type EditorialEntity = {
   notes: string | null;
   institution?: string | null;
   document?: string | null;
+  libelle?: string | null;
 };
