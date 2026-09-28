@@ -1,0 +1,44 @@
+[
+  {
+    "id": "audio-sample-1",
+    "titre": "تسجيل توضيحي 1",
+    "annee": "2002",
+    "source": null,
+    "langue": "الفرنسية",
+    "type": "تقرير",
+    "audio": null,
+    "transcription": "ستُضاف هنا النسخة النصية الكاملة للتسجيل، وهي إلزامية لكل تسجيل صوتي.",
+    "source_url": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية، وليست تسجيلًا حقيقيًا."
+  },
+  {
+    "id": "audio-sample-2",
+    "titre": "تسجيل توضيحي 2",
+    "annee": null,
+    "source": null,
+    "langue": "الولوف",
+    "type": "شهادة",
+    "audio": null,
+    "transcription": "ستُضاف هنا النسخة النصية الكاملة للتسجيل، وهي إلزامية لكل تسجيل صوتي.",
+    "source_url": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية، وليست تسجيلًا حقيقيًا."
+  },
+  {
+    "id": "audio-sample-3",
+    "titre": "تسجيل توضيحي 3",
+    "annee": null,
+    "source": null,
+    "langue": "الفرنسية",
+    "type": "مقابلة",
+    "audio": null,
+    "transcription": "ستُضاف هنا النسخة النصية الكاملة للتسجيل، وهي إلزامية لكل تسجيل صوتي.",
+    "source_url": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية، وليست تسجيلًا حقيقيًا."
+  }
+]

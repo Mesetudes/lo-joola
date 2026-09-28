@@ -1,0 +1,41 @@
+[
+  {
+    "id": "press-sample-1",
+    "journal": "صحيفة توضيحية 1",
+    "annee": "2002",
+    "titre": "عنوان توضيحي",
+    "image": null,
+    "alt": "",
+    "source": null,
+    "source_url": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، وليست صحيفة حقيقية."
+  },
+  {
+    "id": "press-sample-2",
+    "journal": "صحيفة توضيحية 2",
+    "annee": "2002",
+    "titre": "عنوان توضيحي",
+    "image": null,
+    "alt": "",
+    "source": null,
+    "source_url": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، وليست صحيفة حقيقية."
+  },
+  {
+    "id": "press-sample-3",
+    "journal": "صحيفة توضيحية 3",
+    "annee": "2012",
+    "titre": "عنوان توضيحي",
+    "image": null,
+    "alt": "",
+    "source": null,
+    "source_url": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، وليست صحيفة حقيقية."
+  }
+]
