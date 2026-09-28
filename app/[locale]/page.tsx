@@ -7,11 +7,11 @@ const stats = [
 ];
 
 const chapters = [
-  { number: "01", icon: "🎬", title: "خارج الحسبان", subtitle: "فيلم قصير", href: "/khaarij-al-hisban" },
-  { number: "02", icon: "⚓", title: "ليلة لو جوال", subtitle: "كيف حدث الغرق؟", href: "/laylat-lo-joola" },
-  { number: "03", icon: "⚖️", title: "أين العدالة؟", subtitle: "ماذا حدث بعد الكارثة؟", href: "/ayna-aladala" },
-  { number: "04", icon: "👥", title: "الذين بقوا", subtitle: "البشر خلف الأرقام", href: "/alladhina-baqou" },
-  { number: "05", icon: "🕯️", title: "الذاكرة", subtitle: "ما الذي بقي؟", href: "/aldhakira" },
+  { number: "01", icon: "🎬", title: "خارج الحسبان", subtitle: "فيلم قصير", href: "/ar/khaarij-al-hisban" },
+  { number: "02", icon: "⚓", title: "ليلة لو جوال", subtitle: "كيف حدث الغرق؟", href: "/ar/laylat-lo-joola" },
+  { number: "03", icon: "⚖️", title: "أين العدالة؟", subtitle: "ماذا حدث بعد الكارثة؟", href: "/ar/ayna-aladala" },
+  { number: "04", icon: "👥", title: "الذين بقوا", subtitle: "البشر خلف الأرقام", href: "/ar/alladhina-baqou" },
+  { number: "05", icon: "🕯️", title: "الذاكرة", subtitle: "ما الذي بقي؟", href: "/ar/aldhakira" },
 ];
 
 export default function HomePage() {
