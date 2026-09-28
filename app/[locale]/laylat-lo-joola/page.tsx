@@ -1,7 +1,13 @@
-export default function ComingSoonPage() {
+import ShipHero from "@/components/sections/ShipHero";
+import SceneSection from "@/components/narrative/SceneSection";
+
+export default function LaylatLoJoolaPage() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-deep-navy px-6 text-center text-off-white">
-      <p className="text-lg">هذا القسم قيد الإنشاء 🚧</p>
+    <main className="flex flex-col">
+      <ShipHero />
+      <SceneSection className="flex min-h-[60vh] items-center justify-center bg-off-white px-6 text-center text-charcoal">
+        <p id="navire" className="text-lg">المشهد الثاني: السفينة — قيد الإنشاء 🚧</p>
+      </SceneSection>
     </main>
   );
 }
