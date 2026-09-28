@@ -2,6 +2,7 @@ import ShipHero from "@/components/sections/ShipHero";
 import ShipInfographic from "@/components/sections/ShipInfographic";
 import JourneyMap from "@/components/sections/JourneyMap";
 import RiskFactors from "@/components/sections/RiskFactors";
+import StormScene from "@/components/sections/StormScene";
 
 export default function LaylatLoJoolaPage() {
   return (
@@ -12,6 +13,7 @@ export default function LaylatLoJoolaPage() {
       </div>
       <JourneyMap />
       <RiskFactors />
+      <StormScene />
     </main>
   );
 }
