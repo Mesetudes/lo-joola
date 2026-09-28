@@ -1,0 +1,74 @@
+[
+  {
+    "id": "risk-load",
+    "titre": "الحمولة",
+    "description": "لا توجد بعد معلومة موثقة في الأرشيف.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "risk-factor",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  },
+  {
+    "id": "risk-safety",
+    "titre": "السلامة",
+    "description": "لا توجد بعد معلومة موثقة في الأرشيف.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "risk-factor",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  },
+  {
+    "id": "risk-engine",
+    "titre": "المحرك",
+    "description": "لا توجد بعد معلومة موثقة في الأرشيف.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "risk-factor",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  },
+  {
+    "id": "risk-certificate",
+    "titre": "الشهادة",
+    "description": "لا توجد بعد معلومة موثقة في الأرشيف.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "risk-factor",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  },
+  {
+    "id": "risk-weather",
+    "titre": "الطقس",
+    "description": "لا توجد بعد معلومة موثقة في الأرشيف.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "risk-factor",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  },
+  {
+    "id": "risk-zone",
+    "titre": "منطقة الإبحار",
+    "description": "لا توجد بعد معلومة موثقة في الأرشيف.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "risk-factor",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  }
+]
