@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sample-1",
+    "nom": "بطاقة توضيحية 1",
+    "age": null,
+    "profession": null,
+    "residence": null,
+    "histoire": "تُروى هنا قصة الشخص بعد التحقق من مصادرها وبموافقة أسرته.",
+    "photo": null,
+    "alt": "",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، ولا تمثل شخصًا حقيقيًا."
+  },
+  {
+    "id": "sample-2",
+    "nom": "بطاقة توضيحية 2",
+    "age": null,
+    "profession": null,
+    "residence": null,
+    "histoire": "تُروى هنا قصة الشخص بعد التحقق من مصادرها وبموافقة أسرته.",
+    "photo": null,
+    "alt": "",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، ولا تمثل شخصًا حقيقيًا."
+  },
+  {
+    "id": "sample-3",
+    "nom": "بطاقة توضيحية 3",
+    "age": null,
+    "profession": null,
+    "residence": null,
+    "histoire": "تُروى هنا قصة الشخص بعد التحقق من مصادرها وبموافقة أسرته.",
+    "photo": null,
+    "alt": "",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، ولا تمثل شخصًا حقيقيًا."
+  }
+]

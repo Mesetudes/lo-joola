@@ -1,7 +1,11 @@
-export default function ComingSoonPage() {
+import PeopleCover from "@/components/sections/PeopleCover";
+import PeopleGallery from "@/components/sections/PeopleGallery";
+
+export default function AlladhinaBaqouPage() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-deep-navy px-6 text-center text-off-white">
-      <p className="text-lg">هذا القسم قيد الإنشاء 🚧</p>
+    <main className="flex flex-col">
+      <PeopleCover />
+      <PeopleGallery />
     </main>
   );
 }
