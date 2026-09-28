@@ -1,0 +1,47 @@
+[
+  {
+    "id": "survivor-1",
+    "titre": "ناجٍ 01",
+    "photo": null,
+    "alt": "",
+    "video": null,
+    "sous_titres": null,
+    "recit": "يُروى هنا مقطع قصير من قصة الناجي، بعد التحقق من المصدر وبموافقته.",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، ولا تمثل شخصًا حقيقيًا."
+  },
+  {
+    "id": "survivor-2",
+    "titre": "ناجٍ 02",
+    "photo": null,
+    "alt": "",
+    "video": null,
+    "sous_titres": null,
+    "recit": "يُروى هنا مقطع قصير من قصة الناجي، بعد التحقق من المصدر وبموافقته.",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، ولا تمثل شخصًا حقيقيًا."
+  },
+  {
+    "id": "survivor-3",
+    "titre": "ناجٍ 03",
+    "photo": null,
+    "alt": "",
+    "video": null,
+    "sous_titres": null,
+    "recit": "يُروى هنا مقطع قصير من قصة الناجي، بعد التحقق من المصدر وبموافقته.",
+    "source": null,
+    "source_url": null,
+    "consentement": null,
+    "usage_rights": null,
+    "statut_verification": "unverified",
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، ولا تمثل شخصًا حقيقيًا."
+  }
+]
