@@ -3,6 +3,8 @@ import ShipInfographic from "@/components/sections/ShipInfographic";
 import JourneyMap from "@/components/sections/JourneyMap";
 import RiskFactors from "@/components/sections/RiskFactors";
 import StormScene from "@/components/sections/StormScene";
+import SinkingScene from "@/components/sections/SinkingScene";
+import EndOfJourney from "@/components/sections/EndOfJourney";
 
 export default function LaylatLoJoolaPage() {
   return (
@@ -14,6 +16,8 @@ export default function LaylatLoJoolaPage() {
       <JourneyMap />
       <RiskFactors />
       <StormScene />
+      <SinkingScene />
+      <EndOfJourney />
     </main>
   );
 }
