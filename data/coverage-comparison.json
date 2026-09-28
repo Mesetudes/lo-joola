@@ -1,0 +1,24 @@
+[
+  {
+    "id": "senegal",
+    "titre": "التغطية السنغالية",
+    "themes": [
+      { "id": "sn-victims", "titre": "الضحايا", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "sn-families", "titre": "العائلات", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "sn-justice", "titre": "العدالة", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "sn-memory", "titre": "الذاكرة", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "sn-society", "titre": "المجتمع", "resume": null, "source": null, "statut_verification": "unverified" }
+    ]
+  },
+  {
+    "id": "international",
+    "titre": "التغطية العالمية",
+    "themes": [
+      { "id": "in-scale", "titre": "حجم الكارثة", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "in-numbers", "titre": "الأرقام", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "in-causes", "titre": "الأسباب", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "in-safety", "titre": "السلامة", "resume": null, "source": null, "statut_verification": "unverified" },
+      { "id": "in-responsibility", "titre": "المسؤولية", "resume": null, "source": null, "statut_verification": "unverified" }
+    ]
+  }
+]
