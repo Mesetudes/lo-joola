@@ -26,7 +26,7 @@ export default function ShipHero() {
         <circle cx="235" cy="102" r="4" className="fill-deep-navy" />
         <circle cx="265" cy="102" r="4" className="fill-deep-navy" />
       </motion.svg>
-      <h1 className="text-4xl font-bold sm:text-6xl">ليلة لو جوال</h1>
+      <h1 className="text-4xl font-bold sm:text-6xl">ليلة لو جولا</h1>
       <p className="text-lg text-off-white/80 sm:text-2xl">كيف حدث الغرق؟</p>
       <a href="#navire" className="mt-2 rounded-full bg-sea-blue px-6 py-3 text-sm font-medium text-off-white">ابدأ الرحلة ↓</a>
       <WaterLine className="absolute bottom-0 left-0 text-sea-blue" />

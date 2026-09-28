@@ -38,7 +38,7 @@ export default function KhaarijAlHisbanPage() {
       <SceneSection className="flex min-h-[50vh] flex-col items-center justify-center gap-6 bg-deep-navy px-6 text-center text-off-white">
         <p className="text-lg text-off-white/80">من النجاة إلى الغرق...</p>
         <a href="/ar/laylat-lo-joola" className="rounded-full border border-off-white/30 px-6 py-3 text-sm font-medium transition hover:border-sea-blue">
-          انتقل إلى ليلة لو جوال ←
+          انتقل إلى ليلة لو جولا ←
         </a>
       </SceneSection>
     </main>

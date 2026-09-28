@@ -10,8 +10,8 @@ const ibmPlexArabic = IBM_Plex_Sans_Arabic({
 });
 
 export const metadata: Metadata = {
-  title: "لو جوال | ذاكرة لا تغرق",
-  description: "أرشيف صحفي تفاعلي عن غرق سفينة لو جوال",
+  title: "لو جولا | ذاكرة لا تغرق",
+  description: "أرشيف صحفي تفاعلي عن غرق سفينة لو جولا",
 };
 
 export default function RootLayout({

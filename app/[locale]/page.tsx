@@ -8,7 +8,7 @@ const stats = [
 
 const chapters = [
   { number: "01", icon: "🎬", title: "خارج الحسبان", subtitle: "فيلم قصير", href: "/ar/khaarij-al-hisban" },
-  { number: "02", icon: "⚓", title: "ليلة لو جوال", subtitle: "كيف حدث الغرق؟", href: "/ar/laylat-lo-joola" },
+  { number: "02", icon: "⚓", title: "ليلة لو جولا", subtitle: "كيف حدث الغرق؟", href: "/ar/laylat-lo-joola" },
   { number: "03", icon: "⚖️", title: "أين العدالة؟", subtitle: "ماذا حدث بعد الكارثة؟", href: "/ar/ayna-aladala" },
   { number: "04", icon: "👥", title: "الذين بقوا", subtitle: "البشر خلف الأرقام", href: "/ar/alladhina-baqou" },
   { number: "05", icon: "🕯️", title: "الذاكرة", subtitle: "ما الذي بقي؟", href: "/ar/aldhakira" },
@@ -19,7 +19,7 @@ export default function HomePage() {
     <main className="flex flex-col">
       <section className="flex min-h-screen flex-col items-center justify-center gap-4 bg-deep-navy px-6 text-center text-off-white">
         <p className="text-sm tracking-widest">26 سبتمبر 2002</p>
-        <h1 className="text-4xl font-bold sm:text-6xl">لو جوال</h1>
+        <h1 className="text-4xl font-bold sm:text-6xl">لو جولا</h1>
         <p className="text-lg sm:text-2xl">ذاكرة لا تغرق</p>
         <p className="mt-4 max-w-md text-sm text-off-white/80">
           غرقت السفينة في دقائق.
@@ -51,7 +51,7 @@ export default function HomePage() {
 
       <section className="flex min-h-[40vh] items-center justify-center bg-sand px-6 text-center">
         <p className="max-w-xl text-xl font-medium text-charcoal sm:text-2xl">
-          لو جوال ليست قصة سفينة غرقت.
+          لو جولا ليست قصة سفينة غرقت.
           <br />
           إنها قصة الذين رحلوا، والذين نجوا، والذين ظلوا يسألون.
         </p>
