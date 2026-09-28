@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ship-length",
+    "titre": "الطول",
+    "description": "79.5 م",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "dimension",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "القيمة واردة في وثيقة التصميم دون مصدر موثق."
+  },
+  {
+    "id": "ship-width",
+    "titre": "العرض",
+    "description": "12 م",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "dimension",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "القيمة واردة في وثيقة التصميم دون مصدر موثق."
+  },
+  {
+    "id": "ship-capacity",
+    "titre": "السعة التصميمية",
+    "description": "لم تُحدَّد بعد",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "dimension",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": "تُضاف المعلومة بعد التحقق من مصدرها."
+  }
+]
