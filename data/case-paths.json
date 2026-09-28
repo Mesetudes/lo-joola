@@ -1,0 +1,38 @@
+[
+  {
+    "id": "path-state-1",
+    "titre": "لم تُضف معلومات بعد",
+    "description": "ستُعرض هنا المعلومات الموثقة بعد التحقق من مصادرها.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "state",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": null
+  },
+  {
+    "id": "path-judiciary-1",
+    "titre": "لم تُضف معلومات بعد",
+    "description": "ستُعرض هنا المعلومات الموثقة بعد التحقق من مصادرها.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "judiciary",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": null
+  },
+  {
+    "id": "path-families-1",
+    "titre": "لم تُضف معلومات بعد",
+    "description": "ستُعرض هنا المعلومات الموثقة بعد التحقق من مصادرها.",
+    "date": null,
+    "source": null,
+    "source_url": null,
+    "type": "families",
+    "statut_verification": "unverified",
+    "date_verification": null,
+    "notes": null
+  }
+]

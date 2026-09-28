@@ -1,0 +1,15 @@
+[
+  {
+    "id": "doc-sample",
+    "titre": "نموذج وثيقة (توضيحي)",
+    "image": null,
+    "alt": "",
+    "ce_que_nous_voyons": "يُوصف هنا محتوى الوثيقة الحقيقية بعد إضافتها.",
+    "importance": "يُشرح هنا سبب أهمية الوثيقة في مسار القضية.",
+    "source": null,
+    "source_url": null,
+    "statut_verification": "unverified",
+    "usage_rights": null,
+    "notes": "هذه بطاقة توضيحية لاختبار التفاعل، وليست وثيقة حقيقية."
+  }
+]
